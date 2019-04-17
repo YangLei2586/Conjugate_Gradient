@@ -7,5 +7,6 @@ The conjugate gradient method can also be used to solve unconstrained optimizati
 
 ## A comparison of the convergence
 
-
+A comparison of the convergence of gradient descent with optimal step size (in green) and conjugate vector (in red) for minimizing a quadratic function associated with a given linear system. Conjugate gradient, assuming exact arithmetic, converges in at most n steps, where n is the size of the matrix of the system (here n = 2).
+![Conjugate_gradient_illustration](https://user-images.githubusercontent.com/40772712/56305559-98a69080-610e-11e9-945c-24465c570d38.png)
 
