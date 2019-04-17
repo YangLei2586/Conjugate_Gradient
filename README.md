@@ -5,5 +5,7 @@ In mathematics, the conjugate gradient method is an algorithm for the numerical 
 
 The conjugate gradient method can also be used to solve unconstrained optimization problems such as energy minimization. It was mainly developed by Magnus Hestenes and Eduard Stiefel who programmed it on the Z4. The biconjugate gradient method provides a generalization to non-symmetric matrices. Various nonlinear conjugate gradient methods seek minima of nonlinear equations. The conjugate descent method introduced by Fletcher(1987) is one of the conjugate gradient methods. The conjugate gradient method and Quasi-Newton methods are two imporatant methods for solving nonlinear optimization problems. Since conjugate gradient method chose proper  search direction, it improves the convergence very much. The conjugate gradient method is one of the most efficient methods for solving unconstrained optimization problems.
 
+## A comparison of the convergence
+
 
 
